@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979096919412",
+    "project_id": "bataillenaval-b1ec0",
+    "storage_bucket": "bataillenaval-b1ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979096919412:android:f4132d9d2f2d8de556e021",
+        "android_client_info": {
+          "package_name": "com.bataille_naval"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL11tMuP1SF6oawiu6XKhomITlzv7hN78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
